@@ -1,0 +1,18 @@
+├── Codigo_limpio-main/
+│   ├── src/
+│   │   ├── LiquidadorNomina/
+│   │   │   ├── __init__.py
+│   │   │   └── LiquidadorNominaCode.py
+│   │   │   └── FuncionesDeCalculo.py
+│   │   │   └── FuncionesDeEntradaySalida.py
+│   │   ├── Console/
+│   │   │   ├── __init__.py
+│   │   │   └── LiquidadorNominaConsola.py
+│   │   └── GUI/
+│   │       ├── __init__.py
+│   │       └── LiquidadorNominaGUI.py
+│   ├── resources/
+│   │   └── como_usar.txt
+│   ├── __init__.py
+|   └── tests/
+│       └── LiquidadorNomina_test.py
