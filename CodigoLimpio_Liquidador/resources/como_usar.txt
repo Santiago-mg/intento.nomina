@@ -1,0 +1,14 @@
+Modificación de parámetros: En la opción de modificar parámetros, puedes cambiar los valores que se utilizan en los cálculos de la calculadora. Por ejemplo, puedes cambiar el valor de la hora laborada, el número de horas extras diurnas, el número de horas extras nocturnas, etc. Para hacer esto, simplemente selecciona la opción de modificar parámetros en el menú, luego ingresa el nuevo valor para el parámetro que deseas cambiar.
+
+Manejo de porcentajes: En muchos cálculos financieros y de nómina, se utilizan porcentajes. En la calculadora, estos porcentajes se manejan como valores decimales. Por ejemplo, un 75% se representa como 0.75. Esto se debe a que en matemáticas, un porcentaje es simplemente una forma de representar una fracción con denominador 100. Entonces, 75% es lo mismo que 75/100, que es igual a 0.75.
+
+Ahora, veamos un ejemplo de uso de la calculadora con el salario mínimo en Colombia. Supongamos que el salario mínimo mensual legal vigente (SMMLV) en Colombia es de $908,526 COP para el año 2024.
+
+Ingresar el valor de la hora laborada: Primero, necesitamos calcular el valor de la hora laborada. Esto se hace dividiendo el salario mínimo mensual por el número total de horas laboradas en un mes. Supongamos que se trabaja 8 horas al día, 5 días a la semana, durante 4 semanas al mes. Eso suma un total de 160 horas al mes. Entonces, el valor de la hora laborada sería 1300000 / 192 = $ 6.770,83 COP.
+Calcular el valor de las horas extras: Supongamos que se trabajaron 1 horas extras diurnas y 2 horas extras nocturnas. Usando la calculadora, podemos calcular el valor de estas horas extras. Las horas extras diurnas se pagan con un recargo del 25% sobre el valor de la hora laborada, y las horas extras nocturnas se pagan con un recargo del 75%. Entonces, el valor de las horas extras diurnas sería $8463.54166 COP, y el valor de las horas extras nocturnas sería $23697.9166 COP.
+Calcular el valor de los días festivos: Supongamos que se trabajó 1 día festivo. Los días festivos se pagan con un recargo del 75% sobre el valor del día laborado. Entonces, el valor del día festivo sería $94791.6666 COP.
+Calcular el valor de las incapacidades: Supongamos que se tuvo 1 día de incapacidad. Las incapacidades se pagan con el valor del día laborado. Entonces, el valor de la incapacidad sería $54166.6666 COP.
+Calcular el valor del fondo de solidaridad pensional: Este fondo se aplica a quienes ganan más de 4 SMMLV. Como en este caso el salario es de 1 SMMLV, no se aplica el fondo de solidaridad pensional.
+El valor al aporte de fondo de salud y pension serian del 4% del total del sueldo que seria $63558.1250 COP. cada uno por defecto.
+Teniendo un subsidio de transporte base de $162,000.00 COP
+Nos daria un Total a pagar Neto de $1516003.541666 COP
